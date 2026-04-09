@@ -27,4 +27,4 @@ These scripts call the underlying transmission model functions.
 ## Author
 Aniekeme George
 Oxford ILESLA - Doctoral Traning Programme
-Aniekeme George – OXFORD ILESLA - Doctoral Training Program
+ 
