@@ -25,6 +25,6 @@ Run the main scripts in MATLAB (tested on version R2025b)
 These scripts call the underlying transmission model functions.
 
 ## Author
-Aniekeme George
+Aniekeme George -
 Oxford ILESLA - Doctoral Traning Programme
  
